@@ -1,0 +1,72 @@
+{
+  "error": 0,
+  "skill": {
+    "web": [
+      "html",
+      "css",
+      "javascript",
+      "es6",
+      "stylus",
+      "jquery",
+      "bootstrap",
+      "VUE",
+      "vue-router",
+      "vuex",
+      "axios",
+      "git"
+    ],
+    "descList": [
+      "1、熟练使用photoshop把设计的图片按照需要交互的要求进行效果实现",
+      "2、熟练掌握html、css、JavaScript、jquery、ajax、es6",
+      "3、熟练使用vue、vue-router、vuex、axios",
+      "4、熟悉各类UI(如bootstrap、layui、element-ui)框架的使用",
+      "5、熟悉微信小程序开发",
+      "6、熟练使用Chrome等主流浏览器的开发人员工具调试页面",
+      "7、熟练使用github进行代码管理，使用git版本管理工具"
+    ]
+  },
+  "works": {
+    "work": [
+      {
+        "img": "http://demo.qksama.com/api/works1.jpg",
+        "title": "超级学院联盟",
+        "text": "使用html+css+js+jquery开发的一个教育类的平台网站",
+        "href": "http://www.chaojixy.com"
+      },
+      {
+        "img": "http://demo.qksama.com/api/works2.jpg",
+        "title": "星秀时代",
+        "text": "使用html+css+js+jquery开发的一个公司官网",
+        "href": "http://www.xingxiushidai.com"
+      },
+      {
+        "img": "http://demo.qksama.com/api/works3.jpg",
+        "title": "电影资讯小程序(豆瓣API)",
+        "text": "使用小程序原生开发基于豆瓣API的电影资讯小程序",
+        "href": ""
+      },
+      {
+        "img": "http://demo.qksama.com/api/works4.jpg",
+        "title": "仿去哪儿网APP",
+        "text": "主要使用vue + vue-router + axios开发",
+        "href": "http://www.qksama.com"
+      }
+    ]
+  },
+  "experiences": {
+    "experience": [
+      {
+        "time": "2019/7 ~ 2020/1",
+        "company": "河南星秀时代文化传媒有限公司",
+        "position": "web前端",
+        "desc": "负责公司官网页面的制作，PSD切图后构建页面框架利用JS、CSS3书写前端功能，让页面更充实丰富"
+      },
+      {
+        "time": "2018/7 ~ 2019/6",
+        "company": "河南翰林科技有限公司",
+        "position": "web前端",
+        "desc": "负责快速构建高质量移动/PC/微信端页面"
+      }
+    ]
+  }
+}
