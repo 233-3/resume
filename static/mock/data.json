@@ -56,16 +56,16 @@
   "experiences": {
     "experience": [
       {
-        "time": "2019/7 ~ 2020/1",
-        "company": "河南星秀时代文化传媒有限公司",
+        "time": "2018/7 ~ 2020/1",
+        "company": "河南翰林科技有限公司",
         "position": "web前端",
         "desc": "负责公司官网页面的制作，PSD切图后构建页面框架利用JS、CSS3书写前端功能，让页面更充实丰富"
       },
       {
-        "time": "2018/7 ~ 2019/6",
-        "company": "河南翰林科技有限公司",
-        "position": "web前端",
-        "desc": "负责快速构建高质量移动/PC/微信端页面"
+        "time": "2015/9 ~ 2018/6",
+        "company": "河南职业技术学院",
+        "position": "计算机应用",
+        "desc": "主修课程: c#、.net、html、css、JavaScript、photoshop"
       }
     ]
   }
