@@ -97,16 +97,11 @@ export default {
         @media screen and (max-width:320px)
           width 80px
           height 80px
-        @media screen and (max-width:375px)
-          width 80px
-          height 80px
         i
           display block
           margin-top 26px
           font-size 45px
           text-align center
           @media screen and (max-width:320px)
-            font-size 30px
-          @media screen and (max-width:375px)
             font-size 30px
 </style>
