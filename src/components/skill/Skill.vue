@@ -80,6 +80,9 @@ export default {
     @media screen and (max-width:320px)
       font-size 14px
       margin 10px 8px
+    @media screen and (max-width:375px)
+      font-size 14px
+      margin 10px 8px
   .desc-list
     font-family 'Arial, Helvetica, sans-serif'
     padding 0 8px

@@ -71,6 +71,9 @@ export default {
     @media screen and (max-width:320px)
       width 300px
       height 300px
+    @media screen and (max-width:375px)
+      width 300px
+      height 300px
     .swiper-slide
       width 100%
       height auto
