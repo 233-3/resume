@@ -84,6 +84,8 @@ export default {
 <style lang="stylus" scoped>
 .swiper-box >>> .swiper-pagination-bullet-active
   background: #424242
+  >>> .swiper-slide
+    overflow hidden
 .swiper-box
   position fixed
   top 0

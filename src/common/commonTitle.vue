@@ -32,6 +32,8 @@ export default {
     padding-top 50px
     text-align center
     font-size 18px
+    @media screen and (max-width:320px)
+      padding-top 10px
   .title span
     display inline-block
     padding 10px

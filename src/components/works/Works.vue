@@ -68,9 +68,12 @@ export default {
     border 1px solid #424242
     margin 50px auto
     overflow hidden
+    @media screen and (max-width:320px)
+      width 300px
+      height 300px
     .swiper-slide
-      width 320px
-      height 320px
+      width 100%
+      height auto
       img
         width 100%
       .desc

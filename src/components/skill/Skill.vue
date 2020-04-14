@@ -77,6 +77,9 @@ export default {
   .item
     margin 20px 12px
     font-size 18px
+    @media screen and (max-width:320px)
+      font-size 14px
+      margin 10px 8px
   .desc-list
     font-family 'Arial, Helvetica, sans-serif'
     padding 0 8px
@@ -84,4 +87,6 @@ export default {
     font-size 12px
     font-weight bold
     margin-top: 25px;
+    @media screen and (max-width:320px)
+      margin-top 18px
 </style>

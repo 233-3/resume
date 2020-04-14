@@ -94,9 +94,14 @@ export default {
         border 1px solid #2c3e50
         border-radius 50%
         margin 0 auto
+        @media screen and (max-width:320px)
+          width 80px
+          height 80px
         i
           display block
           margin-top 26px
           font-size 45px
           text-align center
+          @media screen and (max-width:320px)
+            font-size 30px
 </style>
