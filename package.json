@@ -15,6 +15,7 @@
     "animejs": "^3.1.0",
     "axios": "^0.19.2",
     "element-ui": "^2.13.0",
+    "fastclick": "^1.0.6",
     "hover.css": "^2.3.2",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.1",
